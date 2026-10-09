@@ -1,0 +1,26 @@
+body{
+    background-color: #FFF8DC;
+    color: #2F4F4F;
+}
+h2{
+    color: #FF6347 ;
+}
+a{
+    color: #FF6347 ;
+}
+img{
+    display: block; margin: auto;
+}
+hr{
+    width: 70%;
+}
+a{
+    width: 400px;
+    justify-content: right
+}
+table{
+    margin: auto;
+    width: 500px;
+    border: none;
+    padding: 6px;
+}
